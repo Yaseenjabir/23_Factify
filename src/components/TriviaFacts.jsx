@@ -86,7 +86,7 @@ const TriviaFacts = ({
             (*The term “trivia” refers to details, considerations, or pieces of
             information that are of little importance or value)
           </p>
-          <div className="min-w-[380px] max mb-4">
+          <div className="mb-4">
             <img src={images} className="rounded-md" />
           </div>
           <p className="flex gap-3">
