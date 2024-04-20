@@ -11,7 +11,7 @@ const Navbar = ({ color }) => {
 
   return (
     <>
-      <header className="d-flex justify-content-center py-3 bg-[#212529] border-b-[1px] min-h-[125px] items-center d-lg-none px-3 gap-2">
+      <header className="d-flex justify-content-center py-3 bg-red-600 border-b-[1px] min-h-[125px] items-center d-lg-none px-3 gap-2">
         <img className="w-[70px] h-[70px] rounded-full" src={logo} />
 
         <ul className="nav nav-pills flex flex-wrap justify-center gap-2 px-1">
