@@ -99,7 +99,7 @@ const RandomFacts = ({
           </div>
           <textarea
             className="border outline-none px-1"
-            cols="35"
+            cols="33"
             rows="5"
             value={error ? error : output ? output : "Loading..."}
             readOnly

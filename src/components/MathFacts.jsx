@@ -80,9 +80,9 @@ const MathFacts = ({
           <span className="visually-hidden">Loading...</span>
         </div>
       ) : (
-        <section className="min-w-[400px] max-w-[500px] py-4 px-2 bg-white min-h-[250px] rounded-lg flex flex-col items-center justify-center text-center">
+        <section className="max-w-[500px] py-4 px-2 bg-white min-h-[250px] rounded-lg flex flex-col items-center justify-center text-center">
           <h1 className="text-2xl font-bold my-3">Fact About Math Number</h1>
-          <div className="min-w-[380px] max mb-4">
+          <div className="mb-4">
             <img src={images} className="rounded-md" />
           </div>
           <p className="flex gap-3">
