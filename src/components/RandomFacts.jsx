@@ -94,7 +94,7 @@ const RandomFacts = ({
             Random Facts About{" "}
             <span className="text-blue-700">Trivia, Date, Math</span>
           </h1>
-          <div className="min-w-[380px] max mb-4">
+          <div className="max mb-4">
             <img src={images} className="rounded-md" />
           </div>
           <textarea
